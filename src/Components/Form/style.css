@@ -1,0 +1,32 @@
+form {
+    /* border: 1px solid #000000; */
+}
+
+.control-input {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.control-input input{
+    width: 350px;
+    height: 50px;
+    padding: 0 10px;
+    border-radius: 5px;
+    border: none;
+}
+
+.btn{
+    padding: 10px;
+    border: none;
+    background-color: bisque;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.input-remember {
+    display: flex;
+}
+
+.input-remember label {
+    margin-left: 0.25rem;
+}
